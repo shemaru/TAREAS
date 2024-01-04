@@ -1,0 +1,10 @@
+Activar entorno virtual
+Instalar y configurar djangorestframework y mysqlclient
+Crear proyecto Django
+Instalar y configurar drf_espectacular y drf-extensions #es para crear las urls rapido
+Instalar y configurar djangorestframework-simplejwt
+Agregar modelos
+Agregar serializadores 
+Agregar vistas #para crear los endpoints y los jwt
+Agregar URLs
+Conclusiones

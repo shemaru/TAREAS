@@ -1,0 +1,5 @@
+djangorestframework
+drf_spectacular
+djangorestframework-simplejwt
+drf-extensions
+mysqlclient
